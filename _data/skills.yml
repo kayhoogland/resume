@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming
+- skill: Programming
+  description: <p> My preferred language to write code in is Python. I picked up Python in 2015 with the course 'Programming for Everybody' on Coursera and I am hooked to the language ever since. Over the years I learned new skills mostly by trying out things in projects. My skill level in Python really took a jump in the Xccelerated bootcamp in which was learned how to write scalable code; ready for production. <p>Technologies:</p><ul class="resume-item-list"><li>Docker</li><li>Flask<li>GIT</li><li>CI/CD</li><li>Testing</li><li>Pandas | Numpy | Scikit-learn<li>Spark</li><li>Pytorch</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Expectation management
+- skill: Communication
+  description: With all the hype around artificial intelligence nowadays, I deem it important to manage expectations of stakeholders well. To be able to do that, communication skills are crucial for a Data Scientist. In both my Master studies, thesis and, first work experience I trained myself to communicate in a clear way but also listen well to what someone else has to say.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Eager to learn
+- skill: Eager to learn
+  description: Life-long learning is something that keeps me motivated in both my work life as in my personal life. Learning something new gives me energy and I hope to learn something new every day.

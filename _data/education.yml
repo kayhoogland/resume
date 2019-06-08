@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Science, Data Science & Entrepreneurship
+  uni: Jheronimus Academy of Data Science (JADS)
+  year: 2016 &mdash; 2018
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA 8.5 / 10
+    - award: Cum Laude
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Science, Industrial Engineering
+  uni: Eindhoven University of Technology
+  year: 2013 &mdash; 2016
+  awards:
+    - award: GPA 7.6 / 10
+    - award: With distinction
+    - award: Big Data honors program (30 ECTS)
+

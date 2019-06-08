@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Xccelerated
+- company: Xccelerated
+  position: Data Science Accelerator
+  duration: Sep 2018 &mdash; Present
+  summary: Xccelerated is a joint initiative between Xebia and GoDataDriven. After an intensive month of bootcamp, I am now working four days a week for KLM Royal Dutch Airlines. One day a week I follow training on Data Science and Personal Development at Xccelerated.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# KLM
+- company: KLM Royal Dutch Airlines
+  position: Data Scientist
+  duration: Oct 2018 &mdash; Present
+  summary: 	At KLM I work for Operations Decision Support (ODS). With a small team of data scientists, we build forecasting models for operations. <ul class="resume-item-list"><li>Forecasting of check-in baggage</li><li>Passenger forecasting</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Netscalers
+- company: Netscalers
+  position: Freelance Data Scientist
+  duration:   Jul 2017  &mdash; Aug 2018
+  summary: Besides my studies, I worked a couple of hours per week for Netscalers. <ul class="resume-item-list"><li>Customer journey analysis</li><li>Process mining</li></ul>
+
+# Greenhouse Group
+- company: Greenhouse Group
+  position: Graduate Research Intern | Creative AI
+  duration: Feb 2018 &mdash; Jul 2018
+  summary:  I developed a system in collaboration with a software engineer that automatically creates product compositions for online advertisements.
