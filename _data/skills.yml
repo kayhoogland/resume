@@ -1,7 +1,7 @@
 # Skills
 # Programming
 - skill: Programming
-  description: <p> My preferred language to write code in is Python. I picked up Python in 2015 with the course 'Programming for Everybody' on Coursera and I am hooked to the language ever since. Over the years I learned new skills mostly by trying out things in projects. My skill level in Python really took a jump in the Xccelerated bootcamp in which was learned how to write scalable code; ready for production. <p>Technologies:</p><ul class="resume-item-list"><li>Docker</li><li>Flask<li>GIT</li><li>CI/CD</li><li>Testing</li><li>Pandas | Numpy | Scikit-learn<li>Spark</li><li>Pytorch</li></ul>
+  description: <p> My preferred language to write code in is Python. I picked up Python in 2015 with the course 'Programming for Everybody' on Coursera and I am hooked to the language ever since. Over the years I learned new skills mostly by trying out things in projects. My skill level in Python really took a jump in the Xccelerated bootcamp in which was learned how to write scalable code; ready for production. <p>Technologies:</p><ul class="resume-item-list-two"><li>Docker</li><li>Flask<li>Kubernetes</li><li>GIT</li><li>CI/CD</li><li>Testing</li><li>Pandas</li><li>Scikit-learn<li>Spark</li><li>Pytorch</li></ul>
 
 # Expectation management
 - skill: Communication
