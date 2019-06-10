@@ -6,35 +6,60 @@
   role: Spare time
   duration: May 2019 &mdash; Present
   url: "https://github.com/kayhoogland/mancala"
-  description: For a long time I was searching for a hobby project to implement in Python until my girlfriend introduced me to the game <a href="https://en.wikipedia.org/wiki/Mancala" itemprop="url"> Mancala </a>. It's an old two-player game with simple rules that requires a good strategy to beat your opponent. Hence, the perfect game to implement in Python. I started this project on my own but a colleague and former classmate liked it so much that we proceeded together. Our goal is to make this into a proper open-source project.
+  description: >- 
+    For a long time, I was searching for a hobby project to implement in Python until my girlfriend introduced 
+    me to the game <a href="https://en.wikipedia.org/wiki/Mancala" itemprop="url">Mancala</a>. 
+    It's an old two-player game with simple rules that requires a good strategy to beat your opponent. 
+    Hence, the perfect game to implement in Python. I started this project on my own but a colleague and 
+    former classmate liked it so much that we proceeded together. Our goal is to make this into a proper open-source project.
 
 # KLM
 - project: Passenger forecasting
   role: KLM
   duration: June 2019 &mdash; Present
   # url: "#"
-  description: 
+  description: >-
+    After focussing on smaller projects for about two years, our team decided to focus on the core business of KLM: passengers. 
+    This project involves a lot of stakeholders who require predictions for the number of passengers at a different moment in time. 
+    The generalizability that the model therefore requires makes this project really challenging and exciting to work on.
 
 # KLM
 - project: Baggage forecasting
   role: KLM
   duration: Oct 2018 &mdash; May 2019
   # url: "#"
-  description: 
+  description: >-
+
+
 
 # Thesis
 - project: Master thesis
   role: Greenhouse Group
   duration: Feb 2018 &mdash; Jul 2018
   # url: "#"
-  description: Greenhouse Group has a large creative department for which graphic designers create content. For one of their clients, Kruidvat, graphic designers create product compositions for internet advertisements. According to designers, this is boring and repetitive work that they would preferably not put their focus on. </p><p> For my Master thesis I developed a system in collaboration with a software engineer that co-creates product compositions for online advertisements with a graphic designer. <p>Watch my talk at <a href="https://www.youtube.com/watch?v=MyFL0BVAGQo" itemprop="url">PyData Amsterdam 2018</a></p>
+  description: >-
+    Greenhouse Group has a large creative department for which graphic designers create content. 
+    For one of their clients, Kruidvat, graphic designers create product compositions for internet advertisements. 
+    According to designers, this is boring and repetitive work that they would preferably not put their focus on. 
+    </p>
+    
+    <p> For my Master thesis, I developed a system in collaboration with a software engineer that co-creates 
+    product compositions for online advertisements with a graphic designer. <p>Watch my talk at 
+    <a href="https://www.youtube.com/watch?v=MyFL0BVAGQo" itemprop="url">PyData Amsterdam 2018</a></p>
 
 # Entrepreneurship in Action
 - project: VoiceCare
   role: Master's course
   duration: Sep 2017 &mdash; Dec 2017
   # url: "#"
-  description: 
+  description: >-
+    <p> For the course 'Data Entrepreneurship', the final project was to create a startup following the Lean Methodology. Together
+    with two of my classmates, I started VoiceCare: a text to speech engine for the healthcare industry. Using your voice reduces the
+    time to document and therefore caregivers can spend more time on giving care to the patient. </p> 
+    
+    <p> What I learned from this project is the importance of speaking to your end-users. For VoiceCare we spoke with a lot of
+    potential customers of the product in order to investigate their needs and to see how our product can help them with that. Accordingly,
+    you can build a product that is valuable for your potential customers. </p>
 
 
 # Bachelor
@@ -43,4 +68,12 @@
   role: Ascom
   duration: Feb 2016 &mdash; Jun 2016
   # url: "#"
-  description: <p>Ascom builds technological solutions for senior healthcare. Using sensory data, their systems check where a patient is located (bed, room, bathroom or outside). A rule-based system decides whether a location transition should be alarmed or not. In case of an alarm, someone remotely watches a video stream of the room to see if the patient requires care from the caregiver.</p><p>For my bachelor thesis I build a classification model that predicts if a patient requires care from a caregiver in case of an alarm. If the model predicts true, watching the video stream is skipped and a caregiver is sent to the patient right away. </p> 
+  description: >- 
+    <p>Ascom builds technological solutions for senior healthcare. Using sensory data, their systems check where a patient 
+    is located (bed, room, bathroom or outside). A rule-based system decides whether a location transition should be 
+    alarmed or not. In case of an alarm, someone remotely watches a video stream of the room to see if the patient 
+    requires care from the caregiver.</p>
+    
+    <p>For my bachelor thesis, I have built a classification model that predicts if a patient requires care from a caregiver 
+    in case of an alarm. If the model predicts true, watching the video stream is skipped and 
+    a caregiver is sent to the patient right away. </p> 
