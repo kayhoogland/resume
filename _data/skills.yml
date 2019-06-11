@@ -1,12 +1,34 @@
 # Skills
 # Programming
 - skill: Programming
-  description: <p> My preferred language to write code in is Python. I picked up Python in 2015 with the course 'Programming for Everybody' on Coursera and I am hooked to the language ever since. Over the years I learned new skills mostly by trying out things in projects. My skill level in Python really took a jump in the Xccelerated bootcamp in which was learned how to write scalable code; ready for production. <p>Technologies:</p><ul class="resume-item-list-two"><li>Docker</li><li>Flask<li>Kubernetes</li><li>GIT</li><li>CI/CD</li><li>Testing</li><li>Pandas</li><li>Scikit-learn<li>Spark</li><li>Pytorch</li></ul>
+  description: >-
+    <p> My preferred language to write code in is Python. I picked up Python in 2015 with the course 
+    'Programming for Everybody' on Coursera and I am hooked to the language ever since. Over the years I learned new skills 
+    mostly by trying out things in projects. My skill level in Python really took a jump in the Xccelerated bootcamp in 
+    which was learned how to write scalable code; ready for production.</p> <p>Technologies:</p>
+    <ul class="resume-item-list-two">
+      <li>Docker</li>
+      <li>Flask</li>
+      <li>Kubernetes</li>
+      <li>GIT</li>
+      <li>CI/CD</li>
+      <li>Testing</li>
+      <li>Pandas</li>
+      <li>Scikit-learn</li>
+      <li>Spark</li>
+      <li>Pytorch</li>
+    </ul>
 
 # Expectation management
 - skill: Communication
-  description: With all the hype around artificial intelligence nowadays, I deem it important to manage expectations of stakeholders well. To be able to do that, communication skills are crucial for a Data Scientist. In both my Master studies, thesis, and first work experience I trained myself to communicate in a clear way but also to listen well to what someone else has to say.
+  description: >-
+    With all the hype around artificial intelligence nowadays, I deem it important to manage expectations of stakeholders well. 
+    To manage expectations, communication skills are crucial for a Data Scientist. 
+    In both my Master studies, thesis, and first work experience I trained myself to communicate in a clear way but also 
+    to listen well to what someone else has to say.
 
 # Eager to learn
 - skill: Eager to learn
-  description: Life-long learning is something that keeps me motivated in both my work life as in my personal life. Learning something new gives me energy and I desire to learn something new every day.
+  description: >-
+    Life-long learning is something that keeps me motivated in both my work life as in my personal life. 
+    Learning something new gives me energy and I desire to learn something new every day.
