@@ -29,6 +29,13 @@
   duration: Oct 2018 &mdash; May 2019
   # url: "#"
   description: >-
+    <p> KLM's core business is the transportation of passengers. However, they also earn money from shipping cargo. To plan for the amount 
+    of cargo on a flight, capacity planners require an estimation for the number and the weight of passenger baggage. Since
+    the moving average model they used did not give satisfying results, they asked for our help. </p>
+
+    <p> In collaboration with our Senior Data Scientist, I have built a forecasting model along with a dashboard to support the process of capacity planners.
+    Because the stakeholders required both the number of bags and the total weight of the bags for the forecast, we decided to go for a neural 
+    network with two output neurons. In the end, our model outperformed the existing model with 30%. </p>
 
 
 
@@ -38,7 +45,7 @@
   duration: Feb 2018 &mdash; Jul 2018
   # url: "#"
   description: >-
-    Greenhouse Group has a large creative department for which graphic designers create content. 
+    <p> Greenhouse Group has a large creative department for which graphic designers create content. 
     For one of their clients, Kruidvat, graphic designers create product compositions for internet advertisements. 
     According to designers, this is boring and repetitive work that they would preferably not put their focus on. 
     </p>
