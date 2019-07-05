@@ -2,6 +2,7 @@
 title: "Kay Hoogland"
 description: "Resume"
 
+
 # Build settings
 markdown: kramdown
 sass:
@@ -27,7 +28,7 @@ resume_header_intro: "<p>I am an eager young professional who builds data scienc
 
 <p> After following the honors program ‘Big Data’ next to my Bachelor of Industrial Engineering, I got hooked on programming and data science. Therefore, the decision to study the Data Science & Entrepreneurship Master at JADS in ‘s-Hertogenbosch was the absolute best choice I could make. By combining Business and IT, this Master’s program learned me to find new markets and opportunities using (Big) data. After my Master's I decided to join Xccelerated, an innovative 13-month development program for Data Scientists who already have some work experience. </p>
 
-<p> The fast-growing field of Data Science attracts me the most. As a Data Scientist, I am always eager to stay up-to-date with the latest innovations. My ambition is to improve decision-making and business processes in a data-driven way.
+<p> The fast-growing field of Data Science attracts me the most. As a Data Scientist, I am always eager to stay up-to-date with the latest innovations. My ambition is to improve decision-making and business processes using a data-driven approach.
 </p>"
 
 # use "yes" to display the email contact button,
