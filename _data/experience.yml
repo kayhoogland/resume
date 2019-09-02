@@ -3,7 +3,25 @@
 - company: Xccelerated
   position: Data Science Accelerator
   duration: Sep 2018 &mdash; Present
-  summary: Xccelerated is a joint initiative between Xebia and GoDataDriven. After an intensive month of bootcamp, I am now working four days a week for KLM Royal Dutch Airlines. One day a week I follow training on Data Science and Personal Development at Xccelerated.
+  summary: >-
+    Xccelerated is a joint initiative between Xebia and GoDataDriven. After an intensive month of bootcamp,
+    I am now working four days a week for KLM Royal Dutch Airlines. One day a week I follow training on
+    Data Science and Personal Development at Xccelerated.
+    <p>Bootcamp topics:</p>
+    <ul class="resume-item-list">
+    <li>Modern and Testable Data transformation & analysis with Pandas</li>
+    <li>Modern and Testable ML with Scikit-learn</li>
+    <li>Data science with Spark</li>
+    <li>Software Engineering with Python (clean code)</li>
+    <li>Writing Flask REST API’s</li>
+    <li>PySpark</li>
+    <li>BigQuery</li>
+    <li>Introduction to public cloud services (GCP)</li>
+    <li>Data mining with R</li>
+    <li>Continuous Integration (CI)</li>
+    <li>Docker</li>
+    <li>Git</li>
+    </ul>
 
 # KLM
 - company: KLM Royal Dutch Airlines
