@@ -30,7 +30,7 @@
   summary: 	>-
     <p> At KLM I work for Operations Decision Support (ODS). With a small team of data scientists, we build forecasting
     models for operations. </p>
-    <p> Python | Jupyter | Scikit-learn | Keras | Spark | Kubernetes | Agile | Scrum | Jira | Bamboo </p>
+    <p> Python | Jupyter | Pandas | Numpy | Scikit-learn | Keras | Spark | Kubernetes | Agile | Scrum | Jira | Bamboo </p>
     <p>Projects:</p>
     <ul class="resume-item-list">
     <li>Baggage forecasting</li>
@@ -45,14 +45,14 @@
   summary: >-
     <p> Besides my studies, I worked a couple of hours per week for Netscalers. I mainly worked on customer journey
     analysis and process mining for their client Shoeby.</p>
-    <p> Disco | ProM | Python | Jupyter </p>
+    <p> Disco | ProM | Python | Pandas | Numpy | Jupyter </p>
 
 # Greenhouse Group
 - company: Greenhouse Group
   position: Graduate Research Intern
   duration: Feb 2018 &mdash; Jul 2018
   summary:  >-
-    <p> Python | DEAP | AWS | Flask | Jupyter | Agile | Scrum </p>
+    <p> Python | DEAP | AWS | Flask | Pandas | Numpy | Jupyter | Agile | Scrum </p>
     <p> Project: Master thesis </p>
 
 # Ascom
@@ -60,5 +60,5 @@
   position: Undergraduate Intern
   duration: Feb 2016 &mdash; Jun 2016
   summary:  >-
-    <p> Python | SVM | Random Forest </p>
+    <p> Python | Pandas | Numpy | Spyder | SVM | Random Forest </p>
     <p> Project: Bachelor thesis </p>
