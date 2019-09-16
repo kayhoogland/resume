@@ -27,23 +27,38 @@
 - company: KLM Royal Dutch Airlines
   position: Data Scientist
   duration: Oct 2018 &mdash; Present
-  summary: 	At KLM I work for Operations Decision Support (ODS). With a small team of data scientists, we build forecasting models for operations. <p>Projects:</p><ul class="resume-item-list"><li>Baggage forecasting</li><li>Passenger forecasting</li></ul>
+  summary: 	>-
+    <p> At KLM I work for Operations Decision Support (ODS). With a small team of data scientists, we build forecasting
+    models for operations. </p>
+    <p> Python | Jupyter | Scikit-learn | Keras | Spark | Kubernetes | Agile | Scrum | Jira | Bamboo </p>
+    <p>Projects:</p>
+    <ul class="resume-item-list">
+    <li>Baggage forecasting</li>
+    <li>Passenger forecasting</li>
+    </ul>
 
 
 # Netscalers
 - company: Netscalers
   position: Freelance Data Scientist
   duration:   Jul 2017  &mdash; Aug 2018
-  summary: Besides my studies, I worked a couple of hours per week for Netscalers. I mainly worked on customer journey analysis and process mining for their client Shoeby.
+  summary: >-
+    <p> Besides my studies, I worked a couple of hours per week for Netscalers. I mainly worked on customer journey
+    analysis and process mining for their client Shoeby.</p>
+    <p> Disco | ProM | Python | Jupyter </p>
 
 # Greenhouse Group
 - company: Greenhouse Group
   position: Graduate Research Intern
   duration: Feb 2018 &mdash; Jul 2018
-  summary:  <ul class="resume-item-list"><li>Master thesis</li></ul>
+  summary:  >-
+    <p> Python | DEAP | AWS | Flask | Jupyter | Agile | Scrum </p>
+    <p> Project: Master thesis </p>
 
 # Ascom
 - company: Ascom
   position: Undergraduate Intern
   duration: Feb 2016 &mdash; Jun 2016
-  summary:  <ul class="resume-item-list"><li>Bachelor thesis</li></ul>
+  summary:  >-
+    <p> Python | SVM | Random Forest </p>
+    <p> Project: Bachelor thesis </p>
