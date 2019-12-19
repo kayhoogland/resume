@@ -4,7 +4,8 @@
   position: Data Scientist
   duration: Oct 2019 &mdash; Present
   summary: >-
-    Floryn is a FinTech startup in 's-Hertogenbosch.
+    Floryn is a FinTech startup in 's-Hertogenbosch. At Floryn I am part of the bank analysis team.
+    <p> Python | Jupyter | Pandas | Numpy | Scikit-learn | FastAPI | Docker | Plotly | Looker | AWS </p>
 
 
 # Xccelerated
@@ -13,7 +14,7 @@
   duration: Sep 2018 &mdash; Sep 2019
   summary: >-
     Xccelerated is a joint initiative between Xebia and GoDataDriven. After an intensive month of bootcamp,
-    I am now working four days a week for KLM Royal Dutch Airlines. One day a week I follow training on
+    I am now working four days a week for KLM Royal Dutch Airlines. One day a week I followed training on
     Data Science and Personal Development at Xccelerated.
     <p>Bootcamp topics:</p>
     <ul class="resume-item-list">
@@ -36,7 +37,7 @@
   position: Data Scientist
   duration: Oct 2018 &mdash; Sep 2019
   summary: 	>-
-    <p> At KLM I work for Operations Decision Support (ODS). With a small team of data scientists, we build forecasting
+    <p> At KLM I worked for Operations Decision Support (ODS). With a small team of data scientists, we built forecasting
     models for operations. </p>
     <p> Python | Jupyter | Pandas | Numpy | Scikit-learn | Keras | Spark | Kubernetes | Agile | Scrum | Jira | Bamboo </p>
     <p>Projects:</p>
