@@ -37,8 +37,11 @@
   position: Data Scientist
   duration: Oct 2018 &mdash; Sep 2019
   summary: 	>-
-    <p> At KLM I worked for Operations Decision Support (ODS). With a small team of data scientists, we built forecasting
-    models for operations. </p>
+    <p>
+    At KLM I worked for Operations Decision Support (ODS). With a small team of data scientists, we built forecasting
+    models for operations. Within the team I specialized in engineering the ETL pipelines and making sure the code was production ready.
+    In addition to working on the two bigger projects list below, I worked out proof of concepts for several business units within KLM and
+    effectively communicated the results to executives . </p>
     <p> Python | Jupyter | Pandas | Numpy | Scikit-learn | Keras | Spark | Kubernetes | Agile | Scrum | Jira | Bamboo </p>
     <p>Projects:</p>
     <ul class="resume-item-list">
@@ -52,8 +55,10 @@
   position: Freelance Data Scientist
   duration:   Jul 2017  &mdash; Aug 2018
   summary: >-
-    <p> Besides my studies, I worked a couple of hours per week for Netscalers. I mainly worked on customer journey
-    analysis and process mining for their client Shoeby.</p>
+    <p>
+    Besides my studies, I worked a couple of hours per week for Netscalers.
+    My main focus was customer journey analysis and process mining for their client Shoeby.
+    </p>
     <p> Disco | ProM | Python | Pandas | Numpy | Jupyter </p>
 
 # Greenhouse Group
